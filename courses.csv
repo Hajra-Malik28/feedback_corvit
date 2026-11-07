@@ -1,0 +1,62 @@
+field,course,vendor,level,campus_regular_pkr,campus_one_to_one_pkr,online_group_usd,online_one_to_one_usd
+Enterprise Networking,CCNA (Enterprise),CISCO,Associate,25000,50000,200,500
+Enterprise Networking,CCNP (Enterprise),CISCO,Professional,50000,100000,500,1000
+Enterprise Networking,CCIE (Enterprise),CISCO,Expert,200000,400000,1200,2400
+Enterprise Networking,HCIA,Huawei,Associate,25000,50000,200,500
+Enterprise Networking,HCIP,Huawei,Professional,50000,100000,500,1000
+Enterprise Networking,HCIE,Huawei,Expert,200000,400000,1200,2400
+Enterprise Networking,JNCIA,Juniper,Associate,25000,50000,200,500
+Enterprise Networking,JNCIP,Juniper,Professional,50000,100000,500,1000
+Enterprise Networking,JNCIE,Juniper,Expert,200000,400000,1200,2400
+Security / Firewall,CCNP (Security),CISCO,Professional,75000,150000,700,1400
+Security / Firewall,CCIE (Security),CISCO,Expert,200000,400000,1200,2400
+Security / Firewall,CISSP,ISC2,Expert,150000,300000,1500,3000
+Security / Firewall,Cisco FTD Firewall,CISCO,Expert,50000,110000,300,500
+Security / Firewall,Fortinet Firewall,Fortinet,Expert,35000,70000,300,500
+Security / Firewall,F5 Load Balancer,F5,Expert,25000,110000,300,500
+Security / Firewall,PaloAlto Firewall,PaloAlto,Expert,35000,70000,300,500
+Data Center,CCNP (Data Center),CISCO,Professional,75000,150000,700,1400
+Data Center,CCIE (Data Center),CISCO,Expert,200000,400000,1200,2400
+Data Center,Cisco ACI / SDN Bootcamp,CISCO,Expert,75000,150000,700,1400
+Collaboration,CCNP (Collaboration),CISCO,Professional,75000,150000,700,1400
+Collaboration,CCIE (Collaboration),CISCO,Expert,200000,400000,1200,2400
+Service Provider,CCNP (Service Provider),CISCO,Professional,75000,150000,700,1400
+Service Provider,CCIE (Service Provider),CISCO,Expert,200000,400000,1200,2400
+Cloud Computing,Microsoft Azure (AZ-104),Microsoft,Associate,30000,70000,110,260
+Cloud Computing,Microsoft Azure Security (AZ-500),Microsoft,Associate,30000,70000,110,260
+Cloud Computing,Microsoft Azure (AZ-305),Microsoft,Expert,50000,90000,180,330
+Cloud Computing,Microsoft 365,Microsoft,Associate,30000,70000,110,260
+Cloud Computing,Microsoft Azure and 365,Microsoft,Fundamental,20000,50000,75,185
+Cloud Computing,MCSE - Server 2022,Microsoft,Associate,30000,70000,110,260
+Cloud Computing,AWS Associate,Amazon,Associate,30000,70000,110,260
+Cloud Computing,AWS Professional,Amazon,Professional,50000,100000,250,500
+Cloud Computing,OpenStack Bootcamp,OpenStack,Expert,75000,150000,500,1000
+Operating Systems / Applications,Linux (RHCSA),Red Hat,Professional,35000,75000,400,850
+Operating Systems / Applications,Advanced Linux (RHCE),Red Hat,Expert,35000,75000,400,850
+Operating Systems / Applications,Basic Linux,RedHat / Kali Linux,Basic,20000,40000,150,300
+Operating Systems / Applications,VCP - VMware Certified Professional,VMware,Professional,50000,100000,500,1000
+Information Security Management / Audit,CISA,ISACA,Professional,75000,150000,700,1500
+Information Security Management / Audit,CISM,ISACA,Expert,80000,175000,750,1500
+Project Management,PMP,PMI,Professional,75000,150000,750,1500
+Project Management,Agile Certified Practitioner,PMI,Professional,75000,150000,750,1500
+Project Management,IT Project Management,-,Professional,50000,100000,800,1600
+IT Services Management,ITIL Foundation,AXELOS,Associate,50000,125000,500,1000
+Cyber Security,CHFI (Computer Hacking Forensics Investigator),EC-Council,Professional,40000,80000,400,800
+Cyber Security,SOC Analyst,EC-Council,Associate,30000,70000,350,700
+Cyber Security,CEH (Certified Ethical Hacking),EC-Council,Professional,40000,80000,400,800
+Digital Marketing,SEO,CORVIT,Professional,35000,75000,150,300
+Digital Marketing,SMO,CORVIT,Professional,35000,75000,150,300
+Programming,Python,Python Institute,Professional,35000,75000,400,800
+Artificial Intelligence,Artificial Intelligence,CORVIT,Professional,45000,90000,400,800
+Artificial Intelligence,AI Machine Learning,CORVIT,Professional,35000,70000,300,500
+Artificial Intelligence,AI Deep Learning,CORVIT,Professional,45000,90000,400,800
+Artificial Intelligence,AI Robotics,CORVIT,Professional,45000,90000,400,800
+Artificial Intelligence,Microsoft AI,Microsoft,Professional,45000,90000,400,800
+Artificial Intelligence,Huawei HCAI,Huawei,Professional,45000,90000,400,800
+Web Development,Web Designing (Front & Back End),CORVIT,Professional,35000,70000,150,300
+Web Development,Mobile App Development,CORVIT,Professional,35000,70000,200,400
+Web Development,MEAN Stack,CORVIT,Professional,45000,90000,200,400
+Web Development,MERN Stack,CORVIT,Professional,45000,90000,200,400
+Graphic Design,Graphic Designing & Video Editing,CORVIT,Professional,35000,60000,200,400
+Cabling,"Structured Cabling (UTP, Fiber)",CORVIT,Professional,25000,60000,200,300
+Cabling,Optical Fiber Cabling,CORVIT,Professional,25000,75000,200,300
